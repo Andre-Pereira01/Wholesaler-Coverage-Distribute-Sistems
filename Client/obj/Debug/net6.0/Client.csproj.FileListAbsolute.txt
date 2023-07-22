@@ -1,0 +1,45 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\bin\Debug\net6.0\Client.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\bin\Debug\net6.0\Client.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\Client.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Trabalhos\3Ano\Semestre2\SD\Protocolo\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\bin\Debug\net6.0\Client.exe
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\bin\Debug\net6.0\Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\Bruna Silva\Desktop\utad\3ano\2Semestre\SistemasDistribuidos\Protocolo\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\bin\Debug\net6.0\Client.exe
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\bin\Debug\net6.0\Client.dll
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\Client.dll
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\Users\kikon\OneDrive\Desktop\universidade\3_ano\2_semestre\sistemas_distribuidos\Protocolo\Protocolo\Client\obj\Debug\net6.0\ref\Client.dll
